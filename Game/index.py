@@ -16,10 +16,10 @@ screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
 while run:
     # Screen color
-    screen.fill((255,0,255))
+    screen.fill((255,255,255))
 
     # Printing our player object
-    pygame.draw.rect(screen, (255,0,0), player)
+    pygame.draw.rect(screen, (0,0,0), (player))
 
     # We take the pressed element on keyboard
     key = pygame.key.get_pressed()
