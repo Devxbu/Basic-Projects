@@ -18,7 +18,7 @@ Here are some of the scripts available in this repo:
 ## 🛠 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/basic-projects.git
+   git clone https://github.com/devxbu/basic-projects.git
    cd basic-projects
    ```  
 2. Install dependencies (if required):
